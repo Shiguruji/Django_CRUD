@@ -1,1 +1,1 @@
-# Django_CRUD
+Zuri Part-time Python Django_CRUD task.
